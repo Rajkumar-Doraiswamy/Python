@@ -72,7 +72,7 @@ ax.set_title("My plot")
 ax.set_xlim(left = 0, right = 20)
 ax.set_ylim(0,10)
 ax.set_xticks(ticks = list(range(0, 20, 1)) ,minor = True)  # Specify tick points
-ax.set_xlabel("X-axis")
+ax.set_xlabel("Raj X-axis")
 plt.show()
 
 
